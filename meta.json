@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/alaviss/union",
   "refs": [
-    "fatal: unable to access 'https://github.com/alaviss/union/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/alaviss/union/': Failed to connect to github.com port 443 after 131025 ms: Network is unreachable",
     ""
   ],
   "heads": []
