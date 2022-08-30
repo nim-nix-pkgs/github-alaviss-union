@@ -158,7 +158,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "github-disruptek-balls": "github-disruptek-balls",
         "nixpkgs": "nixpkgs",
-        "src-union-main": "src-union-main"
+        "src-union-0_1_2": "src-union-0_1_2"
       }
     },
     "src-balls-3_7_0": {
@@ -229,7 +229,7 @@
         "type": "github"
       }
     },
-    "src-union-main": {
+    "src-union-0_1_2": {
       "flake": false,
       "locked": {
         "lastModified": 1661753779,
@@ -241,7 +241,7 @@
       },
       "original": {
         "owner": "alaviss",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.1.2",
         "repo": "union",
         "type": "github"
       }
